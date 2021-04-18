@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, my name is Anja
-- 👀 I'm looking for data role
+- 🔭 I'm currently working on data analysis regarding user behaviour on platform
+- 👀 I'm looking for new data role
 - 🧠 I'm interested in data science, data pipelines, machine learning, deep learning
 - 🧰 I'm using Python, SQL, TensorFlow
 - 📫 How to reach me: https://www.linkedin.com/in/jesierski/
