@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, my name is Anja
-- 🔭 I'm currently working on data analysis regarding user behaviour on platform
-- 👀 I'm looking for new data role
-- 🧠 I'm interested in data science, data pipelines, machine learning, deep learning
-- 🧰 I'm using Python, SQL, TensorFlow
+- 🔭 I'm currently working on deploying machine learning model in AWS Lambda 
+- 👯 I'm looking forward to starting in new role Developer with Opitz Consulting in December
+- 🧠 I'm interested in data science, data pipelines, data engineering, machine learning
+- 🧰 I'm using Python, SQL, TensorFlow, AWS SageMaker
 - 📫 How to reach me: https://www.linkedin.com/in/jesierski/
