@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, my name is Anja
-- 🔭 I'm currently working on getting services into the cloud
-- 👯 I'm filling role Professional Developer with Opitz Consulting as of December 2021
-- 🧠 I'm interested in machine learning and data pipelines
-- 🧰 I'm using Python, SQL, and Jupyter Lab
+- 🌱 I’m currently learning more about Scrum framework
+- 🧠 I'm interested in machine learning and data pipelines in the cloud
+- 🧰 I'm using Python, SQL, and GitLab
 - 📫 How to reach me: https://www.linkedin.com/in/jesierski/
