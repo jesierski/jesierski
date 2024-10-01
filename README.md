@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, my name is Anja
-- 🌱 I’m currently learning more about DevOps
+- 🌱 I’ve just completed Backend-Entwicklung für Cloud-Lösungen by velpTEC
 - 🧠 I'm interested in data pipelines in the cloud
 - 🧰 I'm using Docker, Java, Python, SQL, and GitLab
 - 📫 How to reach me: https://www.linkedin.com/in/jesierski/
