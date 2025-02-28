@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, my name is Anja
-- 🌱 I’ve just completed Backend-Entwicklung für Cloud-Lösungen by velpTEC
+- 🎓 I've received PSMI, PSPOI, and DevOps Foundation
+- 🌱 I’ve completed Backend-Entwicklung für Cloud-Lösungen by velpTEC
 - 🧠 I'm interested in data pipelines in the cloud
-- 🧰 I'm using Docker, Java, Python, SQL, and GitLab
+- 🧰 I'm using GitLab, Python, Java, SQL, and Docker
 - 📫 How to reach me: https://www.linkedin.com/in/jesierski/
