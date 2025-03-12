@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, my name is Anja
-- 🎓 I've received PSMI, PSPOI, and DevOps Foundation
+- 🎓 I've achieved PSMI, PSPOI, and DevOps Foundation
 - 🌱 I’ve completed Backend-Entwicklung für Cloud-Lösungen by velpTEC
 - 🧠 I'm interested in data pipelines in the cloud
 - 🧰 I'm using GitLab, Python, Java, SQL, and Docker
