@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 👋 Hi, my name is Anja
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning [Big Data Specialization](https://www.coursera.org/learn/big-data-management)
+- 🌱 I’m currently learning [Big Data Specialization](https://www.coursera.org/learn/big-data-management) by UCSanDiego at Coursera
 - 🎓 I've achieved AWS CCP, PSMI, PSPOI, and DevOps Foundation
-- 🌱 I’ve completed [Backend-Entwicklung für Cloud-Lösungen by velpTEC](https://velptec.de/bildungsangebot/backend-entwickler-fuer-cloud-loesungen-qualifizierung-in-der-softwareentwicklung-und-programmierung-externe-zertifizierung-scrum-org/)
-- 🧠 I'm interested in data pipelines in the cloud
+- 🌱 I’ve completed [Backend-Entwicklung für Cloud-Lösungen](https://velptec.de/bildungsangebot/backend-entwickler-fuer-cloud-loesungen-qualifizierung-in-der-softwareentwicklung-und-programmierung-externe-zertifizierung-scrum-org/) by velpTEC
+- 🧠 I'm interested in data pipelines in the cloud and Machine Learning
 - 🧰 I'm using GitLab, Python, Java, SQL, and Docker
 - 📫 How to reach me: https://www.linkedin.com/in/jesierski/
